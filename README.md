@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django-CRM
 
 ============
@@ -173,3 +174,6 @@ For commercial support [Contact us](https://micropyramid.com/contact-us/)
 
 # Trigger deploy
 
+=======
+# crm
+>>>>>>> 6cfa567e3f6246cef27087060f08a244cb77823b
